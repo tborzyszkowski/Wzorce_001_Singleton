@@ -2,14 +2,14 @@
 
 | Termin oddania | Punkty     |
 |----------------|:-----------|
-| 22.03.2025 23:00|  10       |
+| 22.03.2026 23:00|  10       |
 
 --- 
 Przekroczenie terminu o **n** zajęć wiąże się z karą:
 - punkty uzyskania za realizację zadania są dzielone przez **2<sup>n</sup>**.
 
 --- 
-Zaproponować przykładowe rozwiązania trzech problemów związanych ze wzorcem Singleton (wybierz z poniższych):
+Zaproponować przykładowe rozwiązania trzech (wybranych z czterech) problemów związanych ze wzorcem Singleton:
 
 1. Odporność na współbieżne wykorzystanie kodu z jednoczesnym zachowaniem maksymalnej wydajności
 2. Problem rozszerzania klasy Singleton przez dziedziczenie (różna podejścia)
